@@ -41,3 +41,10 @@ img{
 	color:white;
 	padding: 1.875rem;
 }
+
+#footer-main{
+	background:#222;
+	color: white;
+	front-size: 0.8rem;
+	padding: 2.5 rem 0;
+}
