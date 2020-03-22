@@ -3,6 +3,10 @@ body{
 	height: 100%;
 }
 
+img{
+	max-width: 100%;
+}
+
 /*cover*/
 
 #cover{
@@ -19,7 +23,21 @@ body{
 	width: 100%;
 }
 
-.form-inline{
+/*.form-inline{
 	display: flex;
 	align-items: center;
+}*/
+
+.section-content{
+	padding: 5rem 0;
+}
+
+#about{
+	background: url('img/girlincar.jpg') center center no-repeat;
+	background-size: cover;
+}
+.about-text{
+	background: rgba(0,0,0,0.8);
+	color:white;
+	padding: 1.875rem;
 }
